@@ -13,6 +13,7 @@ Before running ChannelCast, ensure you have the following components installed a
 - **APIs**:
   - **Football-Data.org API** for fetching competition data and football statistics
   - **News API** for integrating real-time news within the chat
+  - **coingecko API** for integrating real-time cryptocurrency data within the chat.
 
 ---
 
